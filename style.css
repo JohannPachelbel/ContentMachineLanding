@@ -1577,7 +1577,11 @@ body {
   transform: translateY(0);
 }
 
-
+/* Parallax Effect */
+.parallax {
+  transform: translateZ(0);
+  transition: transform 0.1s ease-out;
+}
 
 /* Glitch Effect for Headers */
 @keyframes glitch {
