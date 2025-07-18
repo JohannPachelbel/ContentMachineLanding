@@ -1,5 +1,6 @@
-.hero-section {
+* {
     background-attachment: scroll !important;
+    transform: none !important;
 }
 
 :root {
