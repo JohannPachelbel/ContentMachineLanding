@@ -835,7 +835,7 @@ body {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url('https://pplx-res.cloudinary.com/image/upload/v1749075365/pplx_project_search_images/1ce621060e267a8c79cb742804c35bb6cfad0374.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
@@ -928,7 +928,8 @@ body {
 .problems-section {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/562961d7-8334-4528-ba11-d426c96b6abd.png');
   background-size: cover;
-  background-position: center;
+  background-position: center center
+    ;
 }
 
 .problems-grid {
@@ -1072,7 +1073,7 @@ body {
 .skills-section {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/4b25f2ff-78f3-4bad-92cb-7d5773492972.png');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 }
 
 .skills-grid {
@@ -1133,7 +1134,7 @@ body {
 .program-section {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/f79f6daf-abd8-4628-a6a2-9fc8dfb7dd1c.png');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 }
 
 .accordion-container {
@@ -1258,7 +1259,7 @@ body {
 .pricing-section {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/8711eab4-f1ae-438c-9458-d6d8a2828522.png');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 }
 
 .pricing-grid {
